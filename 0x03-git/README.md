@@ -1,1 +1,1 @@
-my second readme
+Git is good!
